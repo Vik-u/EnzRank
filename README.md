@@ -1,6 +1,6 @@
 # EnzRank
 
-CNN based model for enzyme-substrate activity prediction using enzyme sequence and substrate structural information
+CNN based model for enzyme-substrate activity prediction using enzyme sequence and substrate structural information. The web-based interface available at https://huggingface.co/spaces/vuu10/EnzRank
 
 ## ECI-conf-2022
 CNN models to reproduce results for eci conference 2022 poster
